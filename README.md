@@ -15,4 +15,4 @@ There are general five steps involved in NLP they are as follows −
 
 ![Alt text](https://cdn-images-1.medium.com/max/2000/1*zHLs87sp8R61ehUoXepWHA.png)
 
-                                                                                  Fig: NLP Steps
+                                                    Fig: NLP Steps
