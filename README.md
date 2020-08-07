@@ -4,8 +4,8 @@ NLP using NLTK (Python Library)
 To install Nltk Package
 ------------Anaconda/PyCharm ---------------\
 import nltk\
-nltk.download()  # Downloads all the packages of NLTK  \
-
+nltk.download()  # Downloads all the packages of NLTK  
+\
 NLTK is a dedicated library for Natural Language Processing
 
 There are general five steps involved in NLP they are as follows −
