@@ -1,6 +1,13 @@
 # NLP_Core_Concepts
 NLP using NLTK (Python Library)
 
+To install Nltk Package
+------------Anaconda/PyCharm ---------------
+import nltk
+nltk.download()  # Downloads all the packages of NLTK
+
+NLTK is a dedicated library for Natural Language Processing
+
 There are general five steps involved in NLP they are as follows −
 
 1. Lexical Analysis − It involves identifying and analyzing the structure of words. Lexicon of a language means the collection of words and phrases in a language. Lexical analysis is dividing the whole chunk of txt into paragraphs, sentences, and words.
